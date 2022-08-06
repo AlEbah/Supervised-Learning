@@ -1,0 +1,2 @@
+# Supervised-Learning
+The rising potential of this comparatively under-the-radar market (Used mobile devices) fuels the need for an ML-based solution to develop a dynamic pricing strategy for used and refurbished devices. A start-up aiming to tap the potential in this market, hired me as a data scientist. They tasked me with analysing the data provided and build a linear regression model to predict the price of a used phone/tablet and identify factors that significantly influence it.
